@@ -22,7 +22,7 @@ project life cycle is to create an easy to follow framework to guide projects
 A deliverable is a product or service produced or provided as part of a project
 
 
-## t is the difference between project and product?
+## What is the difference between project and product?
 Projects are finite; they have a defined start and end date and are essentially
 one and done. A product focused model, on the other hand, is tied to the 
 natural product lifecycle—you are never done until the product reaches its end of life.
